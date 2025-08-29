@@ -1,11 +1,11 @@
 {
-  "name": "forcetech7-website2",
+  "name": "team-project-JS-exam",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/ForceTech7-Website2/",
+    "build": "vite build --base=/team-project-JS-exam/",
     "preview": "vite preview"
   },
   "devDependencies": {
